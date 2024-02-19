@@ -1,5 +1,5 @@
 """
-Your header block goes here
+shafeeq kadri
 """
 
 ## IN THIS EXERCISE YOU WILL IMPORT A DEM INTO A NUMPY ARRAY...
